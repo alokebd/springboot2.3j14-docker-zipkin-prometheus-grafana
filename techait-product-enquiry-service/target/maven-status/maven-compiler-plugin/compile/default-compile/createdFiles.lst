@@ -1,0 +1,4 @@
+com\ait\vision\productenquiry\beans\ProductEnquiryBean.class
+com\ait\vision\productenquiry\client\ProductStockClient.class
+com\ait\vision\productenquiry\controller\ProductEnquiryController.class
+com\ait\vision\productenquiry\TechaitProductEnquiryServiceApplication.class

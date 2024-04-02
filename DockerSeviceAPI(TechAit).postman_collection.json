@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "ebc73f88-df7d-468b-a936-1544cc8d1712",
+		"name": "DockerSeviceAPI(TechAit)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "33936986"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8800/product-stock/productName/ball/productAvailability/yes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8800/product-stock/productName/ball/productAvailability/yes"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8700/product-enquiry/name/bat/availability/yes/unit/3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8700/product-enquiry/name/bat/availability/yes/unit/3"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8900/product-enquiry/name/bat/availability/yes/unit/3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8900/product-enquiry/name/bat/availability/yes/unit/3"
+			},
+			"response": []
+		}
+	]
+}
